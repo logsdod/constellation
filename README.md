@@ -1,2 +1,0 @@
-# constellation
-codecademy constellation project
